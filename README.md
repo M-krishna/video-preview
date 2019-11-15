@@ -59,4 +59,4 @@ Common props you may want to specify include:
 
 # License
 
-MIT Licensed. Copyright (c) Think42labs 2018.
+MIT Licensed. Copyright (c) Krishna 2018.
